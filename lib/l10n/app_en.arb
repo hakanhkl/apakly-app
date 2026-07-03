@@ -1,0 +1,388 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The current language"
+    },
+    "newreleases": "New Releases",
+    "@newreleases":{
+        "description": "New Releases"
+    },
+    "artists": "Artists",
+    "@artists":{
+        "description": "Artists"
+    },
+    "nosongsawaible": "No Songs Avaiable",
+    "@nosongsawaible":{
+        "description": "No Songs Avaible"
+    },
+    "noupcomingsongs": "No Upcoming Songs",
+    "@noupcomingsongs":{
+        "description": "No Upcoming Songs"
+    },
+    "noupcomingsongstext": "No Upcoming Songs",
+    "@noupcomingsongstext":{
+        "description": "There are no new releases at the moment. Feel free to check the Marketplace for released singles."
+    },
+    "settings": "Settings",
+    "@settings":{
+        "description": "Settings"
+    },
+    "notloggedin": "You are not logged in.",
+    "@notloggedin":{
+        "description": "You are not logged in."
+    },
+
+    "notloggedinprofilesettings": "To view your profile settings, you must first log in!",
+    "@notloggedinprofilesetting":{
+        "description": "To view your profile settings, you must first log in!"
+    },
+    "tothelogin": "To the Login!",
+    "@tothelogin":{
+        "description": "To the Login!"
+    },
+    "wallet": "Wallet",
+    "@wallet":{
+        "wallet": "Wallet"
+    },
+    "changepassword": "Change password",
+    "@changepassword":{
+        "description": "Change password"
+    },
+    "deleteaccount": "Delete Account",
+    "@deleteaccount":{
+        "description": "Delete Account"
+    },
+    "aboutapakly": "About apakly",
+    "@aboutapakly":{
+        "description": "About apakly"
+    },
+    "shareapakly": "Share apakly",
+    "@shareapakly":{
+        "description": "Share apakly"
+    },
+    "website": "Website",
+    "@website":{
+        "description": "Website"
+    },
+    "logout": "Log out",
+    "@logout":{
+        "description": "Log out"
+    },
+    "login": "Log in",
+    "@login":{
+        "description": "Log in"
+    },
+    "shareapaklytext": "shareapaklytext",
+    "@shareapaklytext":{
+        "description": "shareapaklytext"
+    },
+    "editions": "Editions",
+    "@editions":{
+        "description": "Editions"
+    },
+    "forgotpassword": "Forgot Password?",
+    "@forgotpassword":{
+        "description": "Forgot Password?"
+    },
+    "resetpassword": "Reset password",
+    "@resetpassword":{
+        "description": "Reset password?"
+    },
+    "repeatpassword": "Repeat password",
+    "@repeatpassword":{
+        "description": "Repeat password?"
+    },
+    "usernotverified": "User not verified",
+    "@usernotverified":{
+        "description": "User not verified"
+    },
+    "codesent": "Code is sent",
+    "@codesent":{
+        "description": "Code is sent"
+    },
+    "emailorpasswordwrong": "Email or Password is wrong!",
+    "@emailorpasswordwrong":{
+        "description": "Email or Password is wrong!"
+    },
+    "password": "Password",
+    "@password":{
+        "description": "Password"
+    },
+    "rememberme": "Remember me",
+    "@rememberme":{
+        "description": "Remember me"
+    },
+    "passwordresetlink": "Send Password reset link",
+    "@passwordresetlink":{
+        "description": "Send Password reset link"
+    },
+    "email": "Email",
+    "@email":{
+        "description": "Email"
+    },
+    "passwordchangedsuccesfully": "Password changed successfully",
+    "@passwordchangedsuccesfully":{
+        "description": "Password changed successfully"
+    },
+    "typecorrectpassword": "type in a correct password",
+    "@typecorrectpassword":{
+        "description": "type in a correct password"
+    },
+    "pleaseenterpassword": "Please enter password",
+    "@pleaseenterpassword":{
+        "description": "Please enter password"
+    },
+    "save": "save",
+    "@save":{
+        "description": "save"
+    },
+    "verificationsuccesful": "Verification was successful!",
+    "@verificationsuccesful":{
+        "description": "Verification was successful!"
+    },
+    "recoveryphrasewarning": "Verification was successful!",
+    "@recoveryphrasewarning":{
+        "description": "Verification was successful!"
+    },
+    "recoveryphrasecheck1": "You must first confirm that you have read the text.",
+    "@recoveryphrasecheck1":{
+        "description": "You must first confirm that you have read the text."
+    },
+    "recoveryphrasecheck2": "You must first confirm that you have read the text.",
+    "@recoveryphrasecheck2":{
+        "description": "You must first confirm that you have read the text."
+    },
+    "next": "Next!",
+    "@next":{
+        "description": "Next!"
+    },
+    "verify": "Verify",
+    "@verify":{
+        "description": "Verify"
+    },
+    "verificationcode": "Please enter the verificationcode!",
+    "@verificationcode":{
+        "description": "Please enter the verificationcode!"
+    },
+    "firstname": "First name",
+    "@firstname":{
+        "description": "First Name"
+    },
+    "lastname": "Last name",
+    "@lastname":{
+        "description": "Last name"
+    },
+    "acceptagbanddata": "You have to accept the AGB and Privacy Policy.",
+    "@acceptagbanddata":{
+        "description": "You have to accept the AGB and Privacy Policy."
+    },
+    "verificationcodesent": "A verification code has been sent to your e-mail!",
+    "@verificationcodesent":{
+        "description": "A verification code has been sent to your e-mail!"
+    },
+    "existingemail": "There is already an account with this e-mail address.",
+    "@existingemail":{
+        "description": "There is already an account with this e-mail address."
+    },
+
+    "register": "Register",
+    "@register":{
+        "description": "Register"
+    },
+    "ihave": "I have",
+    "@ihave":{
+        "description": "I have"
+    },
+    "ihaveread": "I have read",
+    "@ihaveread":{
+        "description": "I have read"
+    },
+    "agbandprivacypolicy": "AGB and Privacy Policy",
+    "@agbandprivacypolicy":{
+        "description": "AGB and Privacy Policy"
+    },
+    "acceptit": "and I accept it",
+    "@acceptit":{
+        "description": "and I accept it"
+    },
+    "newsletter": "I would like to receive inspiring news and offers from apakly by e-mail on a regular basis. I can revoke this consent at any time.",
+    "@newsletter":{
+        "description": "I would like to receive inspiring news and offers from apakly by e-mail on a regular basis. I can revoke this consent at any time."
+    },
+    "apaklyAGB": "The apakly AGB apply. Information on the processing of your data can be found in our privacy policy.",
+    "@apaklyAGB":{
+        "description": "The apakly AGB apply. Information on the processing of your data can be found in our privacy policy."
+    },
+    "privacypolicy": "Privacy Policy",
+    "@privacypolicy":{
+        "description": "Privacy Policy"
+    },
+    "youhaveanaccount": "Already have an account?",
+    "@youhaveanaccount":{
+        "description": "Already have an account?"
+    },
+    "noavailableartists": "No available Artists",
+    "@noavailableartists":{
+        "description": "No available Artists"
+    },
+    "price": "Price",
+    "@price":{
+        "description": "Price"
+    },
+    "allitems": "All Items",
+    "@allitems":{
+        "description": "All Items"
+    },
+    "otherartists": "Other Artists",
+    "@otherartists":{
+        "description": "Other Artists"
+    },
+    "discography": "Discography",
+    "@discography":{
+        "description": "discography"
+    },
+    "moresongs": "More songs",
+    "@moresongs":{
+        "description": "More songs"
+    },
+    "search": "Search",
+    "@search":{
+        "description": "Search"
+    },
+    "songcannotbeplayed": "This song can not be played right now.",
+    "@songcannotbeplayed":{
+        "description": "This song can not be played right now."
+    },
+    "preordered": "preordered",
+    "@preordered":{
+        "description": "preordered"
+    },
+    "singles": "singles",
+    "@singles":{
+        "description": "singles"
+    },
+    "albums": "albums",
+    "@albums":{
+        "description": "albums"
+    },
+    "lookaroundmarketplace": "Take a look around the Marketplace or reload the page.",
+    "@lookaroundmarketplace":{
+        "description": "Take a look around the Marketplace or reload the page."
+    },
+    "mustfirstlogin": "To view and listen to your songs, you must first log in!",
+    "@mustfirstlogin":{
+        "description": "To view and listen to your songs, you must first log in!"
+    },
+    "purchaseoverview": "purchase overview",
+    "@purchaseoverview":{
+        "description": "purchase overview"
+    },
+    "thesongisexclusivefor": "After the release, the Song is exclusive for",
+    "@thesongisexclusive":{
+        "description": "After the release, the Song is exclusive for"
+    },
+    "totalprice": "Total Price",
+    "@totalprice":{
+        "description": "Total Price"
+    },
+    "almostthere": "Almost there",
+    "@almostthere":{
+        "description": "Almost there"
+    },
+    "continuewithpayment": "Continue with payment",
+    "@continuewithpayment":{
+        "description": "Continue with payment"
+    },
+    "itemnotavailableinyourcountry": "Oops! Sorry, this item is not available in your country!",
+    "@itemnotavailableinyourcountry":{
+        "description": "Oops! Sorry, this item is not available in your country!"
+    },
+    "buynow": "Buy Now",
+    "@buynow":{
+        "description": "Buy Now"
+    },
+    "preordernow": "Preorder Now",
+    "@preordernow":{
+        "description": "Preorder Now"
+    },
+    "youcanplaythissongfrom": "You can only play this song from",
+    "@youcanplaythissongfrom":{
+        "description": "You can only play this song from"
+    },
+    "description": "Description",
+    "@description":{
+        "description": "Description"
+    },
+    "details": "Details",
+    "@details":{
+        "description": "Details"
+    },
+    "token": "Token",
+    "@token":{
+        "description": "Token"
+    },
+    "tokenstandard": "Token-Standard",
+    "@tokenstandard":{
+        "description": "Token-Standard"
+    },
+    "blockchain": "Blockchain",
+    "@blockchain":{
+        "description": "Blockchain"
+    },
+    "exclusivity": "Exclusivity",
+    "@exclusivity":{
+        "description": "Exclusivity"
+    },
+    "erc155": "ERC-155",
+    "@erc155":{
+        "description": "ERC-155"
+    },
+    "polygon": "Polygon",
+    "@polygon":{
+        "description": "Polygon"
+    },
+    "isbeingprocessed": "Is being processed...",
+    "@isbeingprocessed":{
+        "description": "Is being processed..."
+    },
+    "listentotrialversion": "Listen to the trial version:",
+    "@listentotrialversion":{
+        "description": "Listen to the trial version:"
+    },
+    "von": "of",
+    "@von":{
+        "description": "of"
+    },
+    "limitedto": "limited to",
+    "@limitedto":{
+        "description": "limited to"
+    },
+    "anyotherthougtssongreserved": "Any other thoughts? This song is reserved for you for 5 minutes!",
+    "@anyotherthougtssongreserved":{
+        "description": "Any other thoughts? This song is reserved for you for 5 minutes!"
+    },
+    "upcoming": "Upcoming",
+    "@upcoming":{
+        "description": "Upcoming"
+    },
+    "marketplace": "Marketplace",
+    "@marketplace":{
+        "description": "Marketplace"
+    },
+    "library": "Library",
+    "@library":{
+        "description": "Library"
+    },
+    "profile": "Profile",
+    "@profile":{
+        "description": "Profile"
+    }
+
+
+
+
+
+
+
+}
+

@@ -1,0 +1,145 @@
+{
+  "identifier" : "F0F1FC3B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "6612007139",
+      "localizations" : [
+        {
+          "description" : "Exklusive Single",
+          "displayName" : "Apakly Single M",
+          "locale" : "de"
+        },
+        {
+          "description" : "Exclusive Single",
+          "displayName" : "Apakly Single M",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Exclusive Single M",
+          "displayName" : "Exclusive Single M",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "single_m",
+      "referenceName" : "Apakly Single M",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "6736659919",
+      "localizations" : [
+        {
+          "description" : "Exclusive Apakly Single",
+          "displayName" : "Apakly Single S",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Exclusive Apakly Single",
+          "displayName" : "Apakly Single S",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Exklusive Apakly Single",
+          "displayName" : "Apakly Single ",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "single_s",
+      "referenceName" : "Apakly Single S",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.0",
+      "familyShareable" : false,
+      "internalID" : "6572296837",
+      "localizations" : [
+        {
+          "description" : "Exklusiver und limitierter Song",
+          "displayName" : "Apakly Song",
+          "locale" : "de"
+        },
+        {
+          "description" : "Apakly Exclusive Single",
+          "displayName" : "Exclusive Single",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Apakly Exclusive Single",
+          "displayName" : "Exclusive Single",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "song.consumable",
+      "referenceName" : "Apakly Song Consumable",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6503068592",
+    "_developerTeamID" : "YHD7MKTXJ8",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 750325850.87906206,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
